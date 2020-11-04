@@ -1,0 +1,16 @@
+body {
+    font-size: 12px;
+}
+
+.Scroller {
+    line-height: 20px;
+    /* padding: 0px 10px; */
+    height: 20px;
+    width: 400px;
+}
+
+.ScrollMid {
+    width: 390px;
+    /* padding-left: 10px; */
+    line-height: 20px;
+}
